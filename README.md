@@ -22,6 +22,8 @@ a Serverless architecture.
 
 ## LICENSE
 
+This library is licensed under the MIT-0 License. See the LICENSE file.
+
 This package depends on and may incorporate or retrieve a number of third-party
 software packages (such as open source packages) at install-time or build-time
 or run-time ("External Dependencies"). The External Dependencies are subject to
@@ -50,3 +52,8 @@ IF AMAZON HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THESE LIMITATIONS
 AND DISCLAIMERS APPLY EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
 
 * Mitm.js - https://www.npmjs.com/package/mitm - Modified AGPL-3.0
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
